@@ -3,7 +3,7 @@
 3E Entertainment is a React + Vite web application dedicated to promoting Nepalese culture, art, music, and events to the Nepali audience. The platform aims to unite and celebrate the Nepalese diaspora by showcasing Nepal's rich heritage through engaging events, cultural showcases, and community initiatives.
 
 ## Screenshot
-![alt text](screencapture-localhost-5173-2025-04-25-07_54_27.png)
+(screencapture-localhost-5173-2025-04-25-07_54_27.png)
 
 ## Features
 
